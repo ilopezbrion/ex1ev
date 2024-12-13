@@ -17,8 +17,7 @@ Con cada apartado realiza un commit diferente
 # Examen 1ª Evaluación
 ## Apartado 1
 
-![Imagen](file:///home/dam/primerCurso/COD/primerExamen/ex1ev/Captura de pantalla_2024-12-13_09-53-58.png)
-
+![Captura de pantalla_2024-12-13_09-53-58.png](Captura%20de%20pantalla_2024-12-13_09-53-58.png)
 
 ## Apartado 2
 
