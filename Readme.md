@@ -44,3 +44,4 @@ String[][] tablero = {
 **2)** Una función que recorra las columnas
 **3)** Una función que compruebe si la posición está vacia, tien blanca o tiene negra y en consecuencia lo imprima por pantalla y sume a la cuenta de blancas y negras el total de ellas.
 
+4=
