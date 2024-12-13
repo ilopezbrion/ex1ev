@@ -37,6 +37,7 @@ String[][] tablero = {
 
 ## Apartado 3
 
+
 ### Las 3 funciones que pienso que se podrían implementar son:
 
 **1)** Una función que recorra las filas
